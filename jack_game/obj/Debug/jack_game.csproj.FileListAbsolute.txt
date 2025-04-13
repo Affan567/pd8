@@ -1,0 +1,14 @@
+D:\SecondSemester\OOP\PdTasks\pd8\jack_game\bin\Debug\jack_game.exe.config
+D:\SecondSemester\OOP\PdTasks\pd8\jack_game\bin\Debug\jack_game.exe
+D:\SecondSemester\OOP\PdTasks\pd8\jack_game\bin\Debug\jack_game.pdb
+D:\SecondSemester\OOP\PdTasks\pd8\jack_game\obj\Debug\jack_game.csproj.AssemblyReference.cache
+D:\SecondSemester\OOP\PdTasks\pd8\jack_game\obj\Debug\jack_game.csproj.CoreCompileInputs.cache
+D:\SecondSemester\OOP\PdTasks\pd8\jack_game\obj\Debug\jack_game.exe
+D:\SecondSemester\OOP\PdTasks\pd8\jack_game\obj\Debug\jack_game.pdb
+E:\myOOPwork\PD's\jack_game\jack_game\bin\Debug\jack_game.exe.config
+E:\myOOPwork\PD's\jack_game\jack_game\bin\Debug\jack_game.exe
+E:\myOOPwork\PD's\jack_game\jack_game\bin\Debug\jack_game.pdb
+E:\myOOPwork\PD's\jack_game\jack_game\obj\Debug\jack_game.csproj.AssemblyReference.cache
+E:\myOOPwork\PD's\jack_game\jack_game\obj\Debug\jack_game.csproj.CoreCompileInputs.cache
+E:\myOOPwork\PD's\jack_game\jack_game\obj\Debug\jack_game.exe
+E:\myOOPwork\PD's\jack_game\jack_game\obj\Debug\jack_game.pdb
