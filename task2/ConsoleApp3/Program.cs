@@ -22,12 +22,12 @@ namespace ConsoleApp3
                 if (option == 1)
                 {
                     bool gameRunning = true;
-                    int score = 0; // to count score
+                    int score = 0; 
                     BL.Deck obj = new BL.Deck();
 
-                    obj.shuffle(); // to shuffle the deck
+                    obj.shuffle(); 
 
-                    BL.Card card1 = obj.dealCard(); // getting the dealt card object
+                    BL.Card card1 = obj.dealCard(); 
 
                     while (gameRunning)
                     {
@@ -43,9 +43,9 @@ namespace ConsoleApp3
                         int card_check = int.Parse(Console.ReadLine());
                         Console.Clear();
 
-                        if (card_check == 1) // for greater than
+                        if (card_check == 1) 
                         {
-                            if (card2.getvalue() >= card1.getvalue()) // if next card is greater
+                            if (card2.getvalue() >= card1.getvalue()) 
                             {
                                 score++;
                                 card1 = card2;
@@ -61,9 +61,9 @@ namespace ConsoleApp3
                             }
                         }
 
-                        if (card_check == 2) // for less than
+                        if (card_check == 2) 
                         {
-                            if (card2.getvalue() < card1.getvalue()) // if next card is smaller
+                            if (card2.getvalue() < card1.getvalue()) 
                             {
                                 score++;
                                 card1 = card2;

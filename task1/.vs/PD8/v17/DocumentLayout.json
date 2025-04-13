@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\oop applications\\Finalapp\\PD8\\",
+  "WorkspaceRootPath": "E:\\oopPd\u0027s\\pd8\\task1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|c:\\oop applications\\finalapp\\pd8\\pd8\\ui\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|solutionrelative:pd8\\ui\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|c:\\oop applications\\finalapp\\pd8\\pd8\\ui\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|solutionrelative:pd8\\ui\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|c:\\oop applications\\finalapp\\pd8\\pd8\\bl\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|solutionrelative:pd8\\bl\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|C:\\oop applications\\Finalapp\\PD8\\pd8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|solutionrelative:pd8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|c:\\oop applications\\finalapp\\pd8\\pd8\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|solutionrelative:pd8\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|c:\\oop applications\\finalapp\\pd8\\pd8\\ui\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|solutionrelative:pd8\\ui\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|c:\\oop applications\\finalapp\\pd8\\pd8\\bl\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|E:\\oopPd\u0027s\\pd8\\task1\\pd8\\bl\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|solutionrelative:pd8\\bl\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|c:\\oop applications\\finalapp\\pd8\\pd8\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|E:\\oopPd\u0027s\\pd8\\task1\\pd8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|solutionrelative:pd8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|e:\\ooppd\u0027s\\pd8\\task1\\pd8\\ui\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|solutionrelative:pd8\\ui\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|E:\\oopPd\u0027s\\pd8\\task1\\pd8\\ui\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|solutionrelative:pd8\\ui\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|E:\\oopPd\u0027s\\pd8\\task1\\pd8\\ui\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|solutionrelative:pd8\\ui\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|E:\\oopPd\u0027s\\pd8\\task1\\pd8\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|solutionrelative:pd8\\bl\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|E:\\oopPd\u0027s\\pd8\\task1\\pd8\\bl\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|solutionrelative:pd8\\bl\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|E:\\oopPd\u0027s\\pd8\\task1\\pd8\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{8AD31768-8088-4CBC-81CF-36A03E7584F6}|PD8\\PD8.csproj|solutionrelative:pd8\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -42,54 +42,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\oop applications\\Finalapp\\PD8\\PD8\\App.config",
+              "DocumentMoniker": "E:\\oopPd\u0027s\\pd8\\task1\\PD8\\App.config",
               "RelativeDocumentMoniker": "PD8\\App.config",
-              "ToolTip": "C:\\oop applications\\Finalapp\\PD8\\PD8\\App.config",
+              "ToolTip": "E:\\oopPd\u0027s\\pd8\\task1\\PD8\\App.config",
               "RelativeToolTip": "PD8\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-04-12T18:57:24.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T18:57:24.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\oop applications\\Finalapp\\PD8\\PD8\\UI\\Student.cs",
+              "DocumentMoniker": "E:\\oopPd\u0027s\\pd8\\task1\\PD8\\UI\\Student.cs",
               "RelativeDocumentMoniker": "PD8\\UI\\Student.cs",
-              "ToolTip": "C:\\oop applications\\Finalapp\\PD8\\PD8\\UI\\Student.cs",
+              "ToolTip": "E:\\oopPd\u0027s\\pd8\\task1\\PD8\\UI\\Student.cs",
               "RelativeToolTip": "PD8\\UI\\Student.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwCgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T15:59:21.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Staff.cs",
-              "DocumentMoniker": "C:\\oop applications\\Finalapp\\PD8\\PD8\\UI\\Staff.cs",
+              "DocumentMoniker": "E:\\oopPd\u0027s\\pd8\\task1\\PD8\\UI\\Staff.cs",
               "RelativeDocumentMoniker": "PD8\\UI\\Staff.cs",
-              "ToolTip": "C:\\oop applications\\Finalapp\\PD8\\PD8\\UI\\Staff.cs",
+              "ToolTip": "E:\\oopPd\u0027s\\pd8\\task1\\PD8\\UI\\Staff.cs",
               "RelativeToolTip": "PD8\\UI\\Staff.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T15:59:09.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\oop applications\\Finalapp\\PD8\\PD8\\UI\\Person.cs",
+              "DocumentMoniker": "E:\\oopPd\u0027s\\pd8\\task1\\PD8\\UI\\Person.cs",
               "RelativeDocumentMoniker": "PD8\\UI\\Person.cs",
-              "ToolTip": "C:\\oop applications\\Finalapp\\PD8\\PD8\\UI\\Person.cs",
+              "ToolTip": "E:\\oopPd\u0027s\\pd8\\task1\\PD8\\UI\\Person.cs",
               "RelativeToolTip": "PD8\\UI\\Person.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAwwB4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -98,11 +97,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\oop applications\\Finalapp\\PD8\\PD8\\BL\\Student.cs",
+              "DocumentMoniker": "E:\\oopPd\u0027s\\pd8\\task1\\PD8\\BL\\Student.cs",
               "RelativeDocumentMoniker": "PD8\\BL\\Student.cs",
-              "ToolTip": "C:\\oop applications\\Finalapp\\PD8\\PD8\\BL\\Student.cs",
+              "ToolTip": "E:\\oopPd\u0027s\\pd8\\task1\\PD8\\BL\\Student.cs",
               "RelativeToolTip": "PD8\\BL\\Student.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAcwDEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -111,37 +110,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Staff.cs",
-              "DocumentMoniker": "C:\\oop applications\\Finalapp\\PD8\\PD8\\BL\\Staff.cs",
+              "DocumentMoniker": "E:\\oopPd\u0027s\\pd8\\task1\\PD8\\BL\\Staff.cs",
               "RelativeDocumentMoniker": "PD8\\BL\\Staff.cs",
-              "ToolTip": "C:\\oop applications\\Finalapp\\PD8\\PD8\\BL\\Staff.cs",
+              "ToolTip": "E:\\oopPd\u0027s\\pd8\\task1\\PD8\\BL\\Staff.cs",
               "RelativeToolTip": "PD8\\BL\\Staff.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T10:59:08.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\oop applications\\Finalapp\\PD8\\PD8\\BL\\Person.cs",
+              "DocumentMoniker": "E:\\oopPd\u0027s\\pd8\\task1\\PD8\\BL\\Person.cs",
               "RelativeDocumentMoniker": "PD8\\BL\\Person.cs",
-              "ToolTip": "C:\\oop applications\\Finalapp\\PD8\\PD8\\BL\\Person.cs",
+              "ToolTip": "E:\\oopPd\u0027s\\pd8\\task1\\PD8\\BL\\Person.cs",
               "RelativeToolTip": "PD8\\BL\\Person.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA4wBwAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T10:58:55.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\oop applications\\Finalapp\\PD8\\PD8\\Program.cs",
+              "DocumentMoniker": "E:\\oopPd\u0027s\\pd8\\task1\\PD8\\Program.cs",
               "RelativeDocumentMoniker": "PD8\\Program.cs",
-              "ToolTip": "C:\\oop applications\\Finalapp\\PD8\\PD8\\Program.cs",
+              "ToolTip": "E:\\oopPd\u0027s\\pd8\\task1\\PD8\\Program.cs",
               "RelativeToolTip": "PD8\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

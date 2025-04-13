@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{D6FC2DCA-7807-4531-B8BE-B5D5EBEC0256}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\bl\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6FC2DCA-7807-4531-B8BE-B5D5EBEC0256}|ConsoleApp3\\ConsoleApp3.csproj|c:\\oop applications\\finalapp\\consoleapp3\\consoleapp3\\bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6FC2DCA-7807-4531-B8BE-B5D5EBEC0256}|ConsoleApp3\\ConsoleApp3.csproj|C:\\oop applications\\Finalapp\\ConsoleApp3\\consoleapp3\\bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6FC2DCA-7807-4531-B8BE-B5D5EBEC0256}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\bl\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6FC2DCA-7807-4531-B8BE-B5D5EBEC0256}|ConsoleApp3\\ConsoleApp3.csproj|c:\\oop applications\\finalapp\\consoleapp3\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D6FC2DCA-7807-4531-B8BE-B5D5EBEC0256}|ConsoleApp3\\ConsoleApp3.csproj|C:\\oop applications\\Finalapp\\ConsoleApp3\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6FC2DCA-7807-4531-B8BE-B5D5EBEC0256}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -47,8 +47,7 @@
               "RelativeToolTip": "ConsoleApp3\\BL\\Card.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-13T08:25:41.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T08:25:41.907Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "ConsoleApp3\\Program.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAQwFsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T20:36:47.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T20:36:47.377Z"
             }
           ]
         }
