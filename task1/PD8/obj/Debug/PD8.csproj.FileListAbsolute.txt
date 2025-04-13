@@ -1,0 +1,7 @@
+C:\oop applications\Finalapp\PD8\PD8\obj\Debug\PD8.csproj.AssemblyReference.cache
+C:\oop applications\Finalapp\PD8\PD8\obj\Debug\PD8.csproj.CoreCompileInputs.cache
+C:\oop applications\Finalapp\PD8\PD8\bin\Debug\PD8.exe.config
+C:\oop applications\Finalapp\PD8\PD8\bin\Debug\PD8.exe
+C:\oop applications\Finalapp\PD8\PD8\bin\Debug\PD8.pdb
+C:\oop applications\Finalapp\PD8\PD8\obj\Debug\PD8.exe
+C:\oop applications\Finalapp\PD8\PD8\obj\Debug\PD8.pdb
